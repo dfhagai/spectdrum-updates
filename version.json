@@ -3,7 +3,7 @@
   "_how_it_works": "The plugin shows its update banner only when \"version\" here is HIGHER than the running build (numeric per-segment compare). While it stays below every shipped build nobody is ever prompted, which is the intended idle state.",
   "_to_publish_an_update": "1) attach the installers to a GitHub Release in THIS repo; 2) point url_win / url_mac at those release assets; 3) only THEN raise \"version\". Raising it before the files exist prompts every customer to download something that is not there.",
   "_platform_keys": "url_win / url_mac are picked by the plugin at compile time; plain \"url\" is the fallback for either. Until round 142 there was a single url, so a Mac customer would have been handed the Windows .exe.",
-  "version": "2.54.0",
+  "version": "2.55.0",
   "url": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.exe",
   "url_win": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.exe",
   "url_mac": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.pkg"
