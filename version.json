@@ -10,6 +10,8 @@
   "version_win": "2.57.0",
   "notes": [
     "Space and other DAW keys now respond while the plugin window is focused (Windows)",
-    "The preset wheel stops at the ends of the list instead of wrapping around"
+    "The preset wheel stops at the ends of the list instead of wrapping around",
+    "TEST LINE - a third change would appear here, this long on purpose to show how a full-width line sits in the list",
+    "TEST LINE - and a fourth one, reachable by scrolling"
   ]
 }
