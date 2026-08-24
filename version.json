@@ -6,5 +6,9 @@
   "version": "2.55.0",
   "url": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.exe",
   "url_win": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.exe",
-  "url_mac": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.pkg"
+  "url_mac": "https://github.com/dfhagai/spectdrum-updates/releases/latest/download/SpectdrumSetup.pkg",
+  "notes": [
+    "Space and other DAW keys now respond while the plugin window is focused (Windows)",
+    "Mouse wheel over the preset selectors now moves forward on wheel-up, and stops at the ends of the list"
+  ]
 }
